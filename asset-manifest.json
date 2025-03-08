@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AbdulRaqeebGit/react-components/static/css/main.79eab39e.css",
-    "main.js": "/AbdulRaqeebGit/react-components/static/js/main.0e97de63.js",
+    "main.css": "/AbdulRaqeebGit/react-components/static/css/main.7a4988f9.css",
+    "main.js": "/AbdulRaqeebGit/react-components/static/js/main.6762d89e.js",
     "static/js/488.af104311.chunk.js": "/AbdulRaqeebGit/react-components/static/js/488.af104311.chunk.js",
     "index.html": "/AbdulRaqeebGit/react-components/index.html",
-    "main.79eab39e.css.map": "/AbdulRaqeebGit/react-components/static/css/main.79eab39e.css.map",
-    "main.0e97de63.js.map": "/AbdulRaqeebGit/react-components/static/js/main.0e97de63.js.map",
+    "main.7a4988f9.css.map": "/AbdulRaqeebGit/react-components/static/css/main.7a4988f9.css.map",
+    "main.6762d89e.js.map": "/AbdulRaqeebGit/react-components/static/js/main.6762d89e.js.map",
     "488.af104311.chunk.js.map": "/AbdulRaqeebGit/react-components/static/js/488.af104311.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79eab39e.css",
-    "static/js/main.0e97de63.js"
+    "static/css/main.7a4988f9.css",
+    "static/js/main.6762d89e.js"
   ]
 }
